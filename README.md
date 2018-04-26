@@ -2,6 +2,9 @@
 
 # Bienvenue sur mon githoub #Only#THP#Lyon 
 
+Nous n'avons pas tout reussi a faire, mon programme ne marche pas, désolé :cry:
+
+:pray: Indulgence required, we did our best :smile:
 Dans les 2 dossiers se trouvent les 2 projets
 Le premier sur la présentation de la Team #Only_Lyon
 Le deuxième sur le moussaillon concerné, ouam pour le coup :)
@@ -41,5 +44,22 @@ class User < ApplicationRecord
 #http://api.rubyonrails.org/classes/ActiveModel/Validations/HelperMethods.html#method-i-validates_format_of
 
 end
+## La Team :heart:
+
+**_ Hugo, David & Odyssey & Moi :)_**
+
+## Contributors with peer-learning : :love_letter:
+
+* Mohammad-Ali: https://github.com/mohammadali-bacha
+* Odssey: https://github.com/Odssey
+* oseus: https://github.com/oseus
+* Hug-O: https://github.com/Hug-O
+
+## Slack des contributeurs :
+
+* Mohammad-Ali : @Mohammad-Ali
+* Odyssée Levine : @Odyssée Levine
+* David Coat : @Coat David
+* Hugo : @Hugo
 
 \A bientôt les confrères moussaillons :)
