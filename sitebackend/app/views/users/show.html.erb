@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>⛵ Bienvenu à bord Moussaillon(ne)⛵ prénomé(e)</strong>
+  <%= @user.username %>
+</p>
+
+<p>
+  <strong>Ta super bio :</strong>
+  <%= @user.bio %>
+</p>
+
+<%= link_to 'Edit', edit_user_path(@user) %> |
+<%= link_to 'Back', users_path %>
